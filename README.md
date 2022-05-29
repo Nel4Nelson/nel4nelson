@@ -31,6 +31,8 @@
 
 - ⚡ Fun fact **I building communities.**
 
+- 🥅 2022 Goals: **Learn more about web3, contribute to open source projects and Increase my github stats.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/nel4nelson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nel4nelson" height="30" width="40" /></a>
