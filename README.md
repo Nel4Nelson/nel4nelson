@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/600/1*wWiIWkI4ICszJQ-5W8lBQA.jpeg)
+![MasterHead](https://res.cloudinary.com/nitishk72/image/upload/blog/javascript/javascript-default.png)
 
 <h1 align="center">Hi 👋, I'm Ekwueme Nelson aka Nel4Nelson</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
