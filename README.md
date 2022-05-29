@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ekwueme Nelson</h1>
+![MasterHead](https://miro.medium.com/max/600/1*wWiIWkI4ICszJQ-5W8lBQA.jpeg)
+
+<h1 align="center">Hi 👋, I'm Ekwueme Nelson aka Nel4Nelson</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nel4nelson&label=Profile%20views&color=0e75b6&style=flat" alt="nel4nelson" /> </p>
 
@@ -7,15 +11,15 @@
 
 <p align="left"> <a href="https://twitter.com/nel4nelson" target="blank"><img src="https://img.shields.io/twitter/follow/nel4nelson?logo=twitter&style=for-the-badge" alt="nel4nelson" /></a> </p>
 
-- 🔭 I’m currently working on [Comprehensive course on git and github](Coming soon!)
+- 🔭 I’m currently working on Comprehensive course on git and github (Coming soon!)
 
 - 🌱 I’m currently learning **Git and Github, Javascript, React, Html5 & Css3**
 
-- 👯 I’m looking to collaborate on [an Open source project](Coming soon!)
+- 👯 I’m looking to collaborate on an Open source project (Coming soon!)
 
-- 🤝 I’m looking for help with [Customizing you github Readme](Reach out to me)
+- 🤝 I’m looking for help with Customizing you github Readme (Reach out to me)
 
-- 👨‍💻 All of my projects are available at [Coming Soon!!!](Coming Soon!!!)
+- 👨‍💻 All of my projects are available at github account.
 
 - 📝 I regularly write articles on [Getting started on your tech journey, Git and Github, JavaScript and Building a tech community.](Getting started on your tech journey, Git and Github, JavaScript and Building a tech community.)
 
@@ -23,7 +27,7 @@
 
 - 📫 How to reach me **ekwuememichael131@gmail.com**
 
-- 📄 Know about my experiences [Coming Soon!!!](Coming Soon!!!)
+- 📄 Know about my experiences (Coming Soon!!!)
 
 - ⚡ Fun fact **I building communities.**
 
