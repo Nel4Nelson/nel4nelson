@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on an Open source project (Coming soon!)
 
-- 🤝 I’m looking for help with Customizing you github Readme (Reach out to me)
+- 🤝 I’m looking for help with learning Typescript and Tailwind Css.
 
 - 👨‍💻 All of my projects are available at github account.
 
