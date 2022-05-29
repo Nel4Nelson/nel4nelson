@@ -1,8 +1,8 @@
 <figure>
-    <img src="images/Tech.png"
+    <img src="images/nel.png"
          alt="My Avatar"
          align = "center"
-         width = "800">
+         >
     <figcaption>Meet Nel - My avatar</figcaption>
 </figure>
 
