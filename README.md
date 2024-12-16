@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ekwueme Nelson</h1>
 <h3 align="center">Software Engineer crafting high-performance web applications with TypeScript & React/Nextjs</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nel4Nelson&show_icons=true&theme=transparent" alt="Nel4Nelson's GitHub stats"/>
-</p>
+</p> -->
 
 ### 🛠️ Current Role
 
@@ -18,7 +18,7 @@
 const techStack = {
   languages: ["TypeScript", "JavaScript (ES2015+)", "HTML", "CSS", "Sass"],
   frontend: ["React", "Next.js", "Zustand", "React Query", "TailwindCSS"],
-  testing: ["Jest", "Vitest", "React Testing Library"],
+  testing: ["Jest", "Vitest"],
   design: ["Shadcn UI", "Framer Motion", "Three.js", "Embla Carousel"],
   tools: ["Git", "Docker", "Vercel", "Azure", "Firebase"],
   architecture: ["Microservices", "REST APIs", "State Management"],
