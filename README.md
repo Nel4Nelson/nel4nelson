@@ -37,12 +37,12 @@
 ## 🏆 Holopin Badge Board - Hacktoberfest 2025
 
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="./lvl0-alien.webp" alt="Level 0 Badge" width="80" height="80"/>
-  <img src="./lvl1-alien.webp" alt="Level 1 Badge" width="80" height="80"/>
-  <img src="./lvl2-alien.webp" alt="Level 2 Badge" width="80" height="80"/>
-  <img src="./lvl3-alien.webp" alt="Level 3 Badge" width="80" height="80"/>
-  <img src="./lvl4-alien.webp" alt="Level 4 Badge" width="80" height="80"/>
-  <img src="./lvl5-alien.webp" alt="Level 5 Badge" width="80" height="80"/>
+  <img src="images/lvl0-alien.webp" alt="Level 0 Badge" width="80" height="80"/>
+  <img src="images/lvl1-alien.webp" alt="Level 1 Badge" width="80" height="80"/>
+  <img src="images/lvl2-alien.webp" alt="Level 2 Badge" width="80" height="80"/>
+  <img src="images/lvl3-alien.webp" alt="Level 3 Badge" width="80" height="80"/>
+  <img src="images/lvl4-alien.webp" alt="Level 4 Badge" width="80" height="80"/>
+  <img src="images/lvl5-alien.webp" alt="Level 5 Badge" width="80" height="80"/>
 </p>
 
 <details>
@@ -76,9 +76,9 @@
 <p align="left"> 
 <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql"/>
 </p>
 
 <h3 align="left">Frameworks & Libraries: </h3>
