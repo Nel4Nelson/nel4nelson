@@ -16,7 +16,10 @@
 
 - 🔭 I'm currently building **scalable booking platforms** at [Allotease](https://allotease.com)
   
-- 🌱 I'm always learning about **Advanced React Patterns**, **Performance Optimization** and **State Management Architecture**
+- 🌱 I'm currently learning:
+  - Data Structures & Algorithms (Python)
+  - Machine Learning Fundamentals
+  - System Design & Architecture
   
 - 👨‍💻 All of my projects are available @ [nel4nelson.tech](https://nel4nelson.tech)
   
@@ -33,7 +36,14 @@
 
 ## 🏆 Holopin Badge Board - Hacktoberfest 2025
 
-[![@nel4nelson's Holopin board](https://holopin.io/api/user/board?user=nel4nelson)](https://holopin.io/@nel4nelson)
+<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="./lvl0-alien.webp" alt="Level 0 Badge" width="80" height="80"/>
+  <img src="./lvl1-alien.webp" alt="Level 1 Badge" width="80" height="80"/>
+  <img src="./lvl2-alien.webp" alt="Level 2 Badge" width="80" height="80"/>
+  <img src="./lvl3-alien.webp" alt="Level 3 Badge" width="80" height="80"/>
+  <img src="./lvl4-alien.webp" alt="Level 4 Badge" width="80" height="80"/>
+  <img src="./lvl5-alien.webp" alt="Level 5 Badge" width="80" height="80"/>
+</p>
 
 <details>
 <summary><b>🎯 View My Hacktoberfest Contributions</b></summary>
